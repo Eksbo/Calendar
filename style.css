@@ -1,0 +1,41 @@
+body{
+    margin: 0;
+    padding: 40px;
+
+}
+*{
+    box-sizing: border-box;
+}
+.d-flex
+{
+    display: flex;
+}
+.numDay
+{
+border: 1px solid black;
+list-style-type: none;
+width: 80px;
+text-align: center;
+margin-left: 8px;
+border-radius: 4px;
+padding-top: 4px;
+
+
+}
+.ulStyle
+{
+    display: flex;
+}
+.day
+{
+    color: green;
+    border: 4px solid green;
+   
+}
+#blockHeader
+{
+    text-align: center;
+
+margin-bottom: 4vh;
+justify-content: space-around;
+}
